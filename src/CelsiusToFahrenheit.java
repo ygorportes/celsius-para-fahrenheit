@@ -9,6 +9,6 @@ public class CelsiusToFahrenheit {
         scanner.close();
 
         int fahrenheit = (celsius * 9/5) + 32;
-        System.out.println(celsius + "º Celsius é igual a " + fahrenheit + "º Fahrenheit.");
+        System.out.println(celsius + " graus Celsius é igual a " + fahrenheit + " graus Fahrenheit.");
     }
 }
